@@ -2,6 +2,6 @@
 
 let senha = 1234;
 
-if(senha == 1234){ //Senha correta, então, acesso permitido.
+if(senha === 1234){ //Senha correta, então, acesso permitido.
     console.log("Acesso Permitido!");
 }
